@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		422E065625CB606700677B97 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		42B6FBB725C9FAF8005F3E00 /* Super-Maps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Super-Maps.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42B6FBBA25C9FAF8005F3E00 /* Super_MapsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Super_MapsApp.swift; sourceTree = "<group>"; };
 		42B6FBBC25C9FAF8005F3E00 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		42B6FBAE25C9FAF8005F3E00 = {
 			isa = PBXGroup;
 			children = (
+				422E065625CB606700677B97 /* README.md */,
 				42B6FBB925C9FAF8005F3E00 /* Super-Maps */,
 				42B6FBB825C9FAF8005F3E00 /* Products */,
 			);
